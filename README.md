@@ -2,6 +2,11 @@
 
 Uma API RESTful simples desenvolvida em Go (Golang) para gerenciar dados, armazenando-os em um banco de dados SQLite3. Inclui endpoints para operações CRUD (Criar, Ler, Atualizar, Deletar) e uma funcionalidade de verificação em segundo plano para identificar registros com datas de expiração
 
+### **Palavras Chaves**
+
+1. **Marvel**
+2. **Ellis**
+
 ### **Esse repositório foi feito para o objetivo de ser usado nas aulas do curso da Alura sobre DevOps**
 
 ---
