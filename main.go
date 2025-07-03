@@ -1,11 +1,11 @@
 package main
 
 import (
-	"api/db"
+	"go-api/db"
 	"log"
 	"net/http"
 
-	"api/handlers"
+	"go-api/handlers"
 
 	"github.com/gorilla/mux"
 )

@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"time"
 
-	"api/db"
-	"api/models"
+	"go-api/db"
+	"go-api/models"
 
 	"github.com/gorilla/mux"
 )

@@ -1,0 +1,28 @@
+# Ignorar controle de versão
+.git
+.gitignore
+
+# Ignorar IDEs / editores de texto
+.vscode/
+.idea/
+
+# Ignorar arquivos de configuração do Docker
+Dockerfile
+.dockerignore
+
+# Ignorar arquivos de sistema e logs
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Ignorar diretórios de build locais (se existirem)
+bin/
+dist/
+build/
+
+# Ignorar variáveis de ambiente
+*.env
+
+# Ignorar backups e arquivos temporários
+*~
